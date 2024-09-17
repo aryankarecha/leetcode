@@ -26,10 +26,4 @@ def combine(list1,list2):
     return comb_list
 
 
-def combine_all(lists):
-    comb_list = []
-    for l in lists:
-        for 
 print(combine(list1,list2))
-
-print(combine_all([[1,2,3,4],[0,2,2,3],[5],[3,4,7,8,9]]))
